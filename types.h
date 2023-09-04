@@ -1,0 +1,5 @@
+#define INT "INT"
+#define PLUS "PLUS"
+#define SUB "SUB"
+#define MUL "MUL"
+#define DIV "DIV"
